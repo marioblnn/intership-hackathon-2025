@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sentops
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# intership-hackathon-2025
+🤖✨ This is my internship hackathon project: a local AI code reviewer and assistant
+>>>>>>> 8082001022fcbbff00c4308cb09f9019b8456f43
